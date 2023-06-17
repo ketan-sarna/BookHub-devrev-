@@ -4,7 +4,7 @@ import '../App'
 const Footer = () => {
   return (
     <div className='footer'>
-        <p>books app 2022&copy;</p>
+        <p>BookHub&copy made by ketan sarna;</p>
     </div>
   )
 }
