@@ -9,7 +9,7 @@ const Home = () => {
     <>
    
     <div className='hero'>
-    <Link to='/'>
+    <Link to='/lib'>
       <button className='herobtn'>
         Join Today
       </button>
